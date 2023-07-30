@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , sou Rodrigo Alves</h1><h3 align="center">Me aperfeiçoando em análise de dados, priorizando uso de ferramentas como SQL Server, SAS, Python, Power BI</h3><h3 align="left">Connect with me:</h3>
+<h1 align="center">Oi 👋 , sou Rodrigo Alves</h1><h3 align="center">Me aperfeiçoando em análise de dados, priorizando uso de ferramentas como SQL Server, SAS, Python, Power BI e Excel</h3><h3 align="left">Connect with me:</h3>
 
 
 
